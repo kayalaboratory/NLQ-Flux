@@ -1,0 +1,17 @@
+# Python Sanal Ortamı
+venv/
+.venv/
+
+# Python Cache Dosyaları
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# Hassas Bilgiler
+.env
+
+# IDE ve OS'a özel dosyalar
+.idea/
+.vscode/
+.DS_Store

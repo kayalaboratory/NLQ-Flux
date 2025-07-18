@@ -1,0 +1,15 @@
+# Web Framework
+fastapi
+uvicorn[standard]
+
+# Veri İşleme ve Veritabanı
+pandas
+influxdb-client[ciso]
+
+# NLP ve AI
+spacy
+google-generativeai # Bulut alternatifi için
+python-dotenv       # .env dosyasını okumak için
+requests            # Lokal LLM API'sine istek atmak için
+dotenv
+pandas
